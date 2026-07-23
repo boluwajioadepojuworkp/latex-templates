@@ -1,4 +1,4 @@
-# AGENTS.md — LaTeX Academic Templates
+# AGENTS.md — Academic Templates
 
 ## Repository Layout
 - `Essay/` — Academic essay template (`main.tex`, `diazessay.cls`, `sample.bib`, `Figures/`)
@@ -26,6 +26,7 @@ The triple compilation pass resolves cross-references, citations, and the table 
 - Bibliography entries in BibLaTeX format inside `.bib` files.
 - Graphics belong in a `Figures/` subdirectory.
 - Use `amsmath` and `amssymb` for mathematical notation.
+- These templates are used for coursework at Università degli Studi di Perugia.
 
 ## Commit Messages
 - Follow the [Chris Beams](http://chris.beams.io/posts/git-commit-style/) style.
