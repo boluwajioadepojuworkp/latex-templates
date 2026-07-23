@@ -1,10 +1,10 @@
-# AGENTS.md — Academic Templates
+# AGENTS.md: Academic Templates
 
 ## Repository Layout
-- `Essay/` — Academic essay template (`main.tex`, `diazessay.cls`, `sample.bib`, `Figures/`)
-- `Project/` — Course project template (`main.tex`, `titlepage.tex`, `packages.sty`, `styles.sty`, `content/`, `bibliography.bib`)
-- `homework.tex` — Problem set template
-- `article.tex` — General academic article template
+- `Essay/`: Academic essay template (`main.tex`, `diazessay.cls`, `sample.bib`, `Figures/`)
+- `Project/`: Course project template (`main.tex`, `titlepage.tex`, `packages.sty`, `styles.sty`, `content/`, `bibliography.bib`)
+- `homework.tex`: Problem set template
+- `article.tex`: General academic article template
 
 ## Building and Testing
 ```bash
